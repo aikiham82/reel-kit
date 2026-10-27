@@ -1,0 +1,12 @@
+{
+  "clips": [
+    { "file": "clips/demo-1.mp4", "seconds": 3 },
+    { "file": "clips/demo-2.mp4", "seconds": 3 }
+  ],
+  "transition": "fade",
+  "clipVolume": 0,
+  "music": { "file": "music/demo.mp3", "volume": 0.5 },
+  "accent": "#7FA88B",
+  "intro": [{ "kicker": "Yoga · Murcia", "title": "Clase abierta", "sub": "Sábado 10:00" }],
+  "outro": { "text": "Reserva tu plaza", "url": "example.com" }
+}
