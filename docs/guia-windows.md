@@ -27,7 +27,7 @@ La carpeta queda en `C:\Users\<tu usuario>\reel-kit`.
 
 1. Descarga e instala Claude Desktop desde https://claude.ai/download y entra con tu cuenta.
 2. **Ajustes → Extensiones → Explorar extensiones**: instala **Desktop Commander**. Permite a Claude ejecutar programas y leer archivos de tu PC.
-3. **Ajustes → Capacidades**: activa la ejecución de código y luego, en **Skills**, sube el archivo `reels-skill.zip` (te lo pasan junto con esta guía, o créalo con `python tools\reel.py skill-zip`, queda en `dist\`).
+3. **Ajustes → Capacidades**: activa la ejecución de código y luego, en **Skills**, sube el archivo `reels-skill.zip` (descárgalo de https://github.com/Abraham-Hdez/reel-kit/releases/latest, o créalo con `python tools\reel.py skill-zip`, queda en `dist\`).
 
 ## 3. Hacer un reel
 
