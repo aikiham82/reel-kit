@@ -16,7 +16,7 @@ Cierra PowerShell, ábrelo otra vez y pega:
 
 ```text
 pip install numpy
-git clone https://github.com/USUARIO/reel-kit.git $HOME\reel-kit
+git clone https://github.com/Abraham-Hdez/reel-kit.git $HOME\reel-kit
 cd $HOME\reel-kit
 npm install
 ```
